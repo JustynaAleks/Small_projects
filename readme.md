@@ -1,1 +1,1 @@
-Just small exercise projects. 
+Just small exercise projects from different courses.
